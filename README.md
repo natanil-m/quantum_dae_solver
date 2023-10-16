@@ -22,10 +22,10 @@ The solution of differential equations plays a pivotal role in various scientifi
 
 If you are interested in following the development of the Quantum Differential Equation Solver (QDES) project, please keep an eye on this repository for updates. We appreciate your patience as we work towards completing the associated paper and codebase.
 
-## Contributors
+## Authors
 
-- [Mohammadreza Soltaninia](ms69@alfred.edu)
-- [Junpeng Zhan](zhanj@alfred.edu)
+- Mohammadreza Soltaninia (ms69@alfred.edu)
+- Junpeng Zhan (zhanj@alfred.edu)
 
 ## License
 
