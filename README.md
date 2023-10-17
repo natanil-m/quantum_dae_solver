@@ -18,9 +18,18 @@ The solution of differential equations plays a pivotal role in various scientifi
 
 - **Open-Source Framework**: We released our codebase as an open-source framework to encourage collaboration and further research in this field.
 
-## Getting Started
+## Contribution
 
 If you are interested in following the development of the Quantum Differential Equation Solver (QDES) project, please keep an eye on this repository for updates. We appreciate your patience as we work towards completing the associated paper and codebase.
+
+
+## Examples
+<!--
+| Example 1 | Example 2 |
+|-----------|-----------|
+| ![example1](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/two_variable.png) | ![example2](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/partial1.png) |
+-->
+![example2](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/two_variable.png)
 
 ## Authors
 
