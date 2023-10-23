@@ -1,0 +1,9 @@
+Parallel AWS:
+https://pennylane.ai/qml/demos/braket-parallel-gradients
+
+Parameter shift rules:
+https://pennylane.ai/qml/glossary/quantum_differentiable_programming
+
+
+
+https://pennylane.ai/qml/demos/tutorial_backprop
