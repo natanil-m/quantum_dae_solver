@@ -29,7 +29,7 @@ If you are interested in following the development of the Quantum Differential E
 |-----------|-----------|
 | ![example1](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/two_variable.png) | ![example2](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/partial1.png) |
 -->
-![example2](https://github.com/natanil-m/quantum_dae_solver/blob/main/DE_Solver_2/Images/two_variable.png)
+![example2](https://github.com/natanil-m/quantum_dae_solver/blob/main/Paper_Examples/Example%203/Results/two_variable.png)
 
 ## Authors
 
